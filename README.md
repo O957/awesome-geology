@@ -14,39 +14,40 @@ This list focuses on the scientific aspects of geology including books, papers, 
   - [Journals](#journals)
   - [Researchers](#researchers)
   - [Courses](#courses)
-  - [Databases](#databases)
+  - [Conferences](#conferences)
+  - [Datasets](#datasets)
   - [Websites](#websites)
   - [Geological Societies](#geological-societies)
 - [Mineralogy and Petrology](#mineralogy-and-petrology)
-  - [Papers](#papers)
+  - [Reading Lists](#reading-lists)
   - [Repositories](#repositories)
   - [Software](#software)
 - [Structural Geology and Tectonics](#structural-geology-and-tectonics)
-  - [Papers](#papers-1)
+  - [Reading Lists](#reading-lists-1)
   - [Repositories](#repositories-1)
   - [Software](#software-1)
 - [Sedimentology and Stratigraphy](#sedimentology-and-stratigraphy)
-  - [Papers](#papers-2)
+  - [Reading Lists](#reading-lists-2)
   - [Repositories](#repositories-2)
   - [Software](#software-2)
 - [Volcanology](#volcanology)
-  - [Papers](#papers-3)
+  - [Reading Lists](#reading-lists-3)
   - [Repositories](#repositories-3)
   - [Software](#software-3)
 - [Geomorphology](#geomorphology)
-  - [Papers](#papers-4)
+  - [Reading Lists](#reading-lists-4)
   - [Repositories](#repositories-4)
   - [Software](#software-4)
 - [Geochemistry](#geochemistry)
-  - [Papers](#papers-5)
+  - [Reading Lists](#reading-lists-5)
   - [Repositories](#repositories-5)
   - [Software](#software-5)
 - [Economic Geology](#economic-geology)
-  - [Papers](#papers-6)
+  - [Reading Lists](#reading-lists-6)
   - [Repositories](#repositories-6)
   - [Software](#software-6)
 - [Planetary Geology](#planetary-geology)
-  - [Papers](#papers-7)
+  - [Reading Lists](#reading-lists-7)
   - [Repositories](#repositories-7)
   - [Software](#software-7)
 - [Educational Resources](#educational-resources)
@@ -92,7 +93,15 @@ This list focuses on the scientific aspects of geology including books, papers, 
 - [Geoscience: the Earth and Its Resources (FutureLearn)](https://www.futurelearn.com/): University of Exeter course on Earth resources.
 - [Exploring Geoscience (Yale Open Courses)](https://oyc.yale.edu/geology-and-geophysics): Yale courses on various geology topics.
 
-### Databases
+### Conferences
+
+- [Geological Society of America (GSA) Annual Meeting](https://www.geosociety.org/GSA/Events/Annual_Meeting/GSA/Events/gsa2024.aspx): Major North American geology conference.
+- [American Geophysical Union (AGU) Fall Meeting](https://www.agu.org/fall-meeting): Largest Earth and space science meeting worldwide.
+- [European Geosciences Union (EGU) General Assembly](https://www.egu.eu/meetings/general-assembly/): Major European Earth science conference.
+- [Goldschmidt Conference](https://www.geochemsoc.org/): Premier geochemistry conference.
+- [International Geological Congress (IGC)](https://www.iugs.org/): Quadrennial global geology meeting.
+
+### Datasets
 
 - [MinDat](https://www.mindat.org/): Comprehensive mineral and locality database.
 - [GeoMapApp](http://www.geomapapp.org/): Marine and terrestrial geospatial data exploration.
@@ -123,12 +132,9 @@ This list focuses on the scientific aspects of geology including books, papers, 
 
 ## Mineralogy and Petrology
 
-### Papers
+### Reading Lists
 
-- [The System MgO-FeO-Fe2O3-SiO2](https://www.jstor.org/stable/30066026): Bowen and Schairer on phase relationships.
-- [Pressure-Temperature-Time Paths](https://sp.lyellcollection.org/content/43/1/1): Phil England and Alan Thompson on metamorphic evolution.
-- [Trace Element Geochemistry of Volcanic Rocks](https://www.sciencedirect.com/science/article/abs/pii/0012821X79901579): Pearce and Cann on tectonic discrimination.
-- [Metamorphic Phase Equilibria and Pressure-Temperature-Time Paths](https://pubs.geoscienceworld.org/msa/rimg/article-abstract/10/1/799/87875): Frank Spear review.
+- [O957's Papers - Mineralogy and Petrology](assets/o957_reading_list.md#mineralogy-and-petrology)
 
 ### Repositories
 
@@ -144,12 +150,9 @@ This list focuses on the scientific aspects of geology including books, papers, 
 
 ## Structural Geology and Tectonics
 
-### Papers
+### Reading Lists
 
-- [Mechanics of Thrust Faults and Décollement](https://pubs.geoscienceworld.org/gsa/gsabulletin/article-abstract/70/9/1115/4521): M. King Hubbert and William Rubey.
-- [The Alpine Fault, New Zealand: Dextral Strike-Slip Movement](https://www.sciencedirect.com/science/article/abs/pii/0191814185900021): Wellman review.
-- [Strain within the South Himalayan Fold-and-Thrust Belt](https://pubs.geoscienceworld.org/gsa/geology/article-abstract/26/1/75/205872): DeCelles et al. on Himalayan tectonics.
-- [Continental Transform Boundaries: Tectonic Evolution and Seismic Hazard](https://www.annualreviews.org/doi/abs/10.1146/annurev-earth-063016-015925): Fuis and Mooney review.
+- [O957's Papers - Structural Geology and Tectonics](assets/o957_reading_list.md#structural-geology-and-tectonics)
 
 ### Repositories
 
@@ -165,12 +168,9 @@ This list focuses on the scientific aspects of geology including books, papers, 
 
 ## Sedimentology and Stratigraphy
 
-### Papers
+### Reading Lists
 
-- [Turbidity Currents and Their Deposits](https://www.annualreviews.org/doi/abs/10.1146/annurev.fl.14.010182.002345): Middleton and Hampton review.
-- [Sequence Stratigraphy](https://pubs.geoscienceworld.org/books/book/1609/): Peter Vail and colleagues on seismic stratigraphy.
-- [Meandering and Braided Rivers: Hydraulic Geometry](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/WR013i005p00865): Leopold and Wolman classic.
-- [Delta: Models for Exploration](https://store.aapg.org/detail.aspx?id=1089): Fisher and McGowen on deltaic systems.
+- [O957's Papers - Sedimentology and Stratigraphy](assets/o957_reading_list.md#sedimentology-and-stratigraphy)
 
 ### Repositories
 
@@ -186,12 +186,9 @@ This list focuses on the scientific aspects of geology including books, papers, 
 
 ## Volcanology
 
-### Papers
+### Reading Lists
 
-- [Plinian and Sub-Plinian Eruptions](https://link.springer.com/chapter/10.1007/978-3-642-80087-0_6): L. Wilson and colleagues on explosive eruptions.
-- [Volcano Instability on Earth and Other Planets](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2000RG000088): McGuire review of edifice collapse.
-- [Controls on Explosive-Effusive Volcanic Eruption Styles](https://www.nature.com/articles/s41467-018-05293-3): Cassidy et al. on eruption dynamics.
-- [The Global Volcanism Program Database](https://www.nature.com/articles/sdata201864): Description of Smithsonian volcanic database.
+- [O957's Papers - Volcanology](assets/o957_reading_list.md#volcanology)
 
 ### Repositories
 
@@ -207,12 +204,9 @@ This list focuses on the scientific aspects of geology including books, papers, 
 
 ## Geomorphology
 
-### Papers
+### Reading Lists
 
-- [Stream-Power Law and River Incision](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2001WR900029): Whipple and Tucker on erosion.
-- [Glacial Erosion and Relief Production](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2005JF000421): Egholm et al. on glacial landscapes.
-- [Numerical Modeling of Landscape Evolution](https://www.annualreviews.org/doi/abs/10.1146/annurev.earth.32.092203.122540): Willgoose review.
-- [Tectonic Geomorphology](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-3091.2006.00811.x): Burbank and Anderson concepts.
+- [O957's Papers - Geomorphology](assets/o957_reading_list.md#geomorphology)
 
 ### Repositories
 
@@ -224,12 +218,9 @@ This list focuses on the scientific aspects of geology including books, papers, 
 
 ## Geochemistry
 
-### Papers
+### Reading Lists
 
-- [Rare Earth Element Geochemistry](https://link.springer.com/chapter/10.1007/978-3-642-68324-9_7): Taylor and McLennan review.
-- [Chemical Weathering](https://www.annualreviews.org/doi/abs/10.1146/annurev.earth.23.1.75): Drever and Clow on silicate weathering.
-- [Stable Isotope Geochemistry](https://pubs.geoscienceworld.org/msa/rimg/article-abstract/43/1/1/88031): Valley and Cole overview.
-- [Radiogenic Isotope Geology](https://www.cambridge.org/core/books/radiogenic-isotope-geology/E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8): Dickin textbook.
+- [O957's Papers - Geochemistry](assets/o957_reading_list.md#geochemistry)
 
 ### Repositories
 
@@ -244,12 +235,9 @@ This list focuses on the scientific aspects of geology including books, papers, 
 
 ## Economic Geology
 
-### Papers
+### Reading Lists
 
-- [Porphyry Copper Deposits](https://pubs.geoscienceworld.org/segweb/economicgeology/article-abstract/75/2/214/22313): Sillitoe on ore-forming processes.
-- [Carlin-Type Gold Deposits](https://pubs.geoscienceworld.org/segweb/economicgeology/article-abstract/100/3/419/22726): Cline et al. review.
-- [Mississippi Valley-Type Lead-Zinc Deposits](https://pubs.geoscienceworld.org/segweb/economicgeology/article-abstract/100/5/715/22804): Leach et al. synthesis.
-- [Volcanogenic Massive Sulfide Occurrence Model](https://pubs.er.usgs.gov/publication/sir20105070C): Franklin et al. USGS model.
+- [O957's Papers - Economic Geology](assets/o957_reading_list.md#economic-geology)
 
 ### Repositories
 
@@ -265,12 +253,9 @@ This list focuses on the scientific aspects of geology including books, papers, 
 
 ## Planetary Geology
 
-### Papers
+### Reading Lists
 
-- [The Geology of Mars](https://www.cambridge.org/core/books/geology-of-mars/E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8): Carr and Head comprehensive review.
-- [Titan's Surface Organic Chemistry and Interior](https://www.sciencedirect.com/science/article/pii/S0019103514004825): Lunine review.
-- [Planetary Volcanism](https://agupubs.onlinelibrary.wiley.com/doi/book/10.1029/ME151): Fagents et al. comparative planetology.
-- [Crater Counting](https://www.annualreviews.org/doi/abs/10.1146/annurev-earth-082517-010046): Robbins chronology methods.
+- [O957's Papers - Planetary Geology](assets/o957_reading_list.md#planetary-geology)
 
 ### Repositories
 
