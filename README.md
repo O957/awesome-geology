@@ -1,8 +1,16 @@
 # Awesome Geology [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> A curated list of awesome resources for geology — the study of Earth's structure, composition, and processes.
+_A curated list of awesome resources for geology._
 
-This list focuses on the scientific aspects of geology including books, papers, educational resources, and research in various geological disciplines. For open-source software and tools, see [awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience).
+<details markdown=1>
+
+<summary> Definition From Wikipedia </summary>
+
+> **Geology** is a branch of [natural science](https://en.wikipedia.org/wiki/Natural_science "Natural science") concerned with the Earth and other [astronomical bodies](https://en.wikipedia.org/wiki/Astronomical_bodies "Astronomical bodies"), the rocks of which they are composed, and the processes by which they change over time. [1](https://en.wikipedia.org/wiki/Geology#cite_note-Geology_Definition-1) The name comes from [Ancient Greek](https://en.wikipedia.org/wiki/Ancient_Greek_language "Ancient Greek language") [γῆ](https://en.wiktionary.org/wiki/%CE%B3%E1%BF%86#Ancient_Greek "wikt:γῆ") *(*gê*)* 'earth' and [λoγία](https://en.wiktionary.org/wiki/-#Ancient_Greek "wikt:-") *(*[-logía](https://en.wikipedia.org/wiki/-logy "-logy")*)* 'study of, discourse'. [2](https://en.wikipedia.org/wiki/Geology#cite_note-OnlineEtDict-2) [3](https://en.wikipedia.org/wiki/Geology#cite_note-LSJ-3) Modern geology significantly overlaps all other [Earth sciences](https://en.wikipedia.org/wiki/Earth_science "Earth science"), including [hydrology](https://en.wikipedia.org/wiki/Hydrology "Hydrology"). It is integrated with [Earth system science](https://en.wikipedia.org/wiki/Earth_system_science "Earth system science") and [planetary science](https://en.wikipedia.org/wiki/Planetary_science "Planetary science").  [^wikipedia_citation]
+
+[^wikipedia_citation]: Wikipedia contributors. "Geology." Wikipedia. Last modified October 23, 2025. Accessed October 24, 2025. <https://en.wikipedia.org/wiki/Geology>.
+
+</details>
 
 **Note on Repositories vs. Software**: Throughout this list, **Repositories** sections contain source code hosted on GitHub/GitLab for researchers and developers, while **Software** sections contain downloadable applications and tools for end-users (excluding items already listed in Repositories).
 
@@ -120,7 +128,14 @@ This list focuses on the scientific aspects of geology including books, papers, 
 - [Atlas of Metamorphic Rocks and Their Textures](https://www.wiley.com/en-us/Atlas+of+Metamorphic+Rocks+and+their+Textures-p-9780470221747): Bruce Yardley and colleagues.
 - [Atlas of Sedimentary Rocks Under the Microscope](https://www.amazon.com/Atlas-Sedimentary-Rocks-Under-Microscope/dp/0582061938): A.E. Adams and colleagues.
 
-### Geological Societies
+### Organizations
+
+#### GitHub Organizations
+
+- [GPlates](https://github.com/GPlates): Interactive plate tectonics visualization software organization.
+- [USGS Astrogeology Science Center](https://github.com/USGS-Astrogeology): Planetary geology tools and data.
+
+#### Geological Societies
 
 - [Geological Society of America (GSA)](https://www.geosociety.org/): Major North American geological society.
 - [Geological Society of London](https://www.geolsoc.org.uk/): UK-based international society.
