@@ -12,7 +12,7 @@ _A curated list of awesome resources for geology._
 
 </details>
 
-**Note on Repositories vs. Software**: Throughout this list, **Repositories** sections contain source code hosted on GitHub/GitLab for researchers and developers, while **Software** sections contain downloadable applications and tools for end-users (excluding items already listed in Repositories).
+![](./assets/geology.jpg)
 
 ## Contents
 
@@ -84,14 +84,8 @@ _A curated list of awesome resources for geology._
 
 ### Researchers
 
-- [Marie Tharp](https://en.wikipedia.org/wiki/Marie_Tharp): Pioneering geologist who mapped the ocean floor (deceased).
-- [Bruce Yardley](https://environment.leeds.ac.uk/see/staff/1081/professor-bruce-yardley): University of Leeds metamorphic petrologist.
-- [Haakon Fossen](https://www.uib.no/en/persons/Haakon.Fossen): University of Bergen structural geologist.
-- [Robert Anderson](https://instaar.colorado.edu/people/robert-s-anderson/): University of Colorado geomorphologist studying Earth surface processes.
-- [Cin-Ty Lee](https://earthscience.rice.edu/lee/): Rice University geochemist studying continental crust formation.
-- [Barbara Romanowicz](https://eps.berkeley.edu/people/barbara-romanowicz): UC Berkeley seismologist studying Earth's interior structure.
-- [Miaki Ishii](https://earthsciences.fas.harvard.edu/people/miaki-ishii): Harvard seismologist studying deep Earth structure.
-- [Wendy Panero](https://earthsciences.osu.edu/people/panero.1): Ohio State geophysicist studying planetary interiors.
+- [Florian Wellmann](https://github.com/flohorovicic): Developer of GemPy for 3D structural geological modeling.
+- [Wolfgang Schwanghart](https://github.com/wschwanghart): University of Potsdam geomorphologist; creator of TopoToolbox.
 
 ### Courses
 
