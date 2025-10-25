@@ -18,7 +18,7 @@ _A curated list of awesome resources for geology._
 
 ![](./assets/geology.jpg) [^image_attribution]
 
-[^image_attribution]: Image used under the [Unsplash License](https://unsplash.com/license), i.e. "All images can be downloaded and used for free", "Commercial and non-commercial purposes", and "No permission needed (though attribution is appreciated!)". Link: <https://unsplash.com/photos/a-mountain-with-a-very-interesting-pattern-on-it-svcatmhPk9U>. Description: "a mountain with a very interesting pattern on it". Photographer: [Brian Cornelius](https://unsplash.com/@bmcornelius).
+[^image_attribution]: Image used under the [Unsplash License](https://unsplash.com/license), i.e. "All images can be downloaded and used for free", "Commercial and non-commercial purposes", and "No permission needed (though attribution is appreciated!)". Image Link: <https://unsplash.com/photos/a-mountain-with-a-very-interesting-pattern-on-it-svcatmhPk9U>. Image Description: "a mountain with a very interesting pattern on it". Image Photographer: [Brian Cornelius](https://unsplash.com/@bmcornelius).
 
 ## Contents
 
