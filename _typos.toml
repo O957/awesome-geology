@@ -12,7 +12,8 @@ O957 = "O957"
 dot_acn = ".acn"
 dot_fot = ".fot"
 dot_ist = ".ist"
-MERCHANTIBILITY = "MERCHANTIBILITY"
+Cann = "Cann"
+Celles = "Celles"
 
 [files]
 extend-exclude = [
