@@ -65,6 +65,7 @@ _A curated list of awesome resources for geology._
   - [Repositories](#repositories-7)
   - [Software](#software-7)
 - [Educational Resources](#educational-resources)
+- [Contribution](#contribution)
 
 ## General Resources
 
@@ -286,6 +287,10 @@ _A curated list of awesome resources for geology._
 ## Educational Resources
 
 - [MIT OpenCourseWare - Earth Science](https://ocw.mit.edu/courses/earth-atmospheric-and-planetary-sciences/): Free online geology courses.
+
+## Contribution
+
+Notice anything missing that would be a good fit? If interested in contributing, please see the [contributing file](./CONTRIBUTING.md) for further direction.
 
 ## License
 
