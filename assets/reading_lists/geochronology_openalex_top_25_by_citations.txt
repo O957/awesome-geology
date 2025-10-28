@@ -1,0 +1,228 @@
+Top 25 Papers Citation Search Results
+Generated: 2025-10-28 02:36:51
+================================================================================
+
+1. Subcommission on geochronology: Convention on the use of decay constants in geo- and cosmochronology
+   Authors: Rudolf H. Steiger, E. Jäger
+   Year: 1977
+   Citations: 9916
+   Source: Earth and Planetary Science Letters
+   DOI: https://doi.org/10.1016/0012-821x(77)90060-7
+   URL: https://doi.org/10.1016/0012-821x(77)90060-7
+   Open Access: No
+
+2. Abundances of the elements: Meteoritic and solar
+   Authors: Edward Anders, N. Grevesse
+   Year: 1989
+   Citations: 9681
+   Source: Geochimica et Cosmochimica Acta
+   DOI: https://doi.org/10.1016/0016-7037(89)90286-x
+   URL: https://doi.org/10.1016/0016-7037(89)90286-x
+   Open Access: No
+
+3. THREE NATURAL ZIRCON STANDARDS FOR U‐TH‐PB, LU‐HF, TRACE ELEMENT AND REE ANALYSES
+   Authors: Michael Wiedenbeck, Paul Allé, Fernando Corfú, William L. Griffin, Manuel Meier
+   Year: 1995
+   Citations: 5878
+   Source: Geostandards and Geoanalytical Research
+   DOI: https://doi.org/10.1111/j.1751-908x.1995.tb00147.x
+   URL: https://doi.org/10.1111/j.1751-908x.1995.tb00147.x
+   Open Access: No
+
+4. The application of laser ablation-inductively coupled plasma-mass spectrometry to in situ U–Pb zircon geochronology
+   Authors: Simon E. Jackson, Norman J. Pearson, William L. Griffin, Елена Белоусова
+   Year: 2004
+   Citations: 4885
+   Source: Chemical Geology
+   DOI: https://doi.org/10.1016/j.chemgeo.2004.06.017
+   URL: https://doi.org/10.1016/j.chemgeo.2004.06.017
+   Open Access: No
+
+5. The Composition of Zircon and Igneous and Metamorphic Petrogenesis
+   Authors: P. W. O. Hoskin, Urs Schaltegger
+   Year: 2003
+   Citations: 4288
+   Source: Reviews in Mineralogy and Geochemistry
+   DOI: https://doi.org/10.2113/0530027
+   URL: https://doi.org/10.2113/0530027
+   Open Access: Yes
+
+6. Chemical Geodynamics
+   Authors: Alan Zindler, S. R. Hart
+   Year: 1986
+   Citations: 4242
+   Source: Annual Review of Earth and Planetary Sciences
+   DOI: https://doi.org/10.1146/annurev.ea.14.050186.002425
+   URL: https://doi.org/10.1146/annurev.ea.14.050186.002425
+   Open Access: Yes
+
+7. Correction of common lead in U–Pb analyses that do not report 204Pb
+   Authors: Tom Andersen
+   Year: 2002
+   Citations: 4079
+   Source: Chemical Geology
+   DOI: https://doi.org/10.1016/s0009-2541(02)00195-x
+   URL: https://doi.org/10.1016/s0009-2541(02)00195-x
+   Open Access: No
+
+8. Zircon saturation revisited: temperature and composition effects in a variety of crustal magma types
+   Authors: E. Bruce Watson, T. Mark Harrison
+   Year: 1983
+   Citations: 3830
+   Source: Earth and Planetary Science Letters
+   DOI: https://doi.org/10.1016/0012-821x(83)90211-x
+   URL: https://doi.org/10.1016/0012-821x(83)90211-x
+   Open Access: No
+
+9. Atlas of Zircon Textures
+   Authors: Fernando Corfú
+   Year: 2003
+   Citations: 3400
+   Source: Reviews in Mineralogy and Geochemistry
+   DOI: https://doi.org/10.2113/0530469
+   URL: https://doi.org/10.2113/0530469
+   Open Access: No
+
+10. The Last Glacial Maximum
+   Authors: Peter U. Clark, Arthur S. Dyke, Jeremy D. Shakun, Anders E. Carlson, Jorie Clark
+   Year: 2009
+   Citations: 3336
+   Source: Science
+   DOI: https://doi.org/10.1126/science.1172873
+   URL: https://doi.org/10.1126/science.1172873
+   Open Access: No
+
+11. Age Dating and the Orbital Theory of the Ice Ages: Development of a High-Resolution 0 to 300,000-Year Chronostratigraphy
+   Authors: Douglas G. Martinson, Nicklas G. Pisias, James D Hays, John Imbrie, Theodore C. Moore
+   Year: 1987
+   Citations: 3323
+   Source: Quaternary Research
+   DOI: https://doi.org/10.1016/0033-5894(87)90046-9
+   URL: https://doi.org/10.1016/0033-5894(87)90046-9
+   Open Access: Yes
+
+12. A Geologic Time Scale 2004
+   Authors: Felix M. Gradstein, Felix M. Gradstein, Felix M. Gradstein, Felix M. Gradstein, Felix M. Gradstein
+   Year: 2005
+   Citations: 3049
+   Source: Cambridge University Press eBooks
+   DOI: https://doi.org/10.1017/cbo9780511536045
+   URL: https://doi.org/10.1017/cbo9780511536045
+   Open Access: No
+
+13. A Revised Cenozoic Geochronology and Chronostratigraphy
+   Authors: William A. Berggren, Dennis V. Kent, Carl C. Swisher, Marie‐Pierre Aubry
+   Year: 1995
+   Citations: 3003
+   Source: SEPM (Society for Sedimentary Geology) eBooks
+   DOI: https://doi.org/10.2110/pec.95.04.0129
+   URL: https://doi.org/10.2110/pec.95.04.0129
+   Open Access: No
+
+14. IsoplotR: A free and open toolbox for geochronology
+   Authors: Pieter Vermeesch
+   Year: 2018
+   Citations: 2723
+   Source: Geoscience Frontiers
+   DOI: https://doi.org/10.1016/j.gsf.2018.04.001
+   URL: https://doi.org/10.1016/j.gsf.2018.04.001
+   Open Access: Yes
+
+15. The 176Lu decay constant determined by Lu–Hf and U–Pb isotope systematics of Precambrian mafic intrusions
+   Authors: Ulf Söderlund, P. Jonathan Patchett, Jeffrey D. Vervoort, C. E. Isachsen
+   Year: 2004
+   Citations: 2629
+   Source: Earth and Planetary Science Letters
+   DOI: https://doi.org/10.1016/s0012-821x(04)00012-3
+   URL: https://doi.org/10.1016/s0012-821x(04)00012-3
+   Open Access: No
+
+16. Geochemical approaches to sedimentation, provenance, and tectonics
+   Authors: S. M. McLennan, Sidney R. Hemming, Diane K. McDaniel, Gilbert N. Hanson
+   Year: 1993
+   Citations: 2589
+   Source: Geological Society of America Special Papers
+   DOI: https://doi.org/10.1130/spe284-p21
+   URL: https://doi.org/10.1130/spe284-p21
+   Open Access: No
+
+17. U-Th-Pb Geochronology by Ion Microprobe
+   Authors: M. D. Buyantuev, В. Б. Хубанов, T. T. Vrublevskaya, Свидетельства Методика, Растяжения Позднепалеозойского
+   Year: 1997
+   Citations: 2498
+   Source: Unknown
+   DOI: https://doi.org/10.5382/rev.07.01
+   URL: https://doi.org/10.5382/rev.07.01
+   Open Access: No
+
+18. Late Archean to Paleoproterozoic evolution of the North China Craton: key issues revisited
+   Authors: Guochun Zhao, Min Sun, Simon A. Wilde, Sanzhong Li
+   Year: 2004
+   Citations: 2478
+   Source: Precambrian Research
+   DOI: https://doi.org/10.1016/j.precamres.2004.10.002
+   URL: https://doi.org/10.1016/j.precamres.2004.10.002
+   Open Access: No
+
+19. Hf isotopic compositions of the standard zircons and baddeleyites used in U–Pb geochronology
+   Authors: Fu‐Yuan Wu, Yue‐Heng Yang, Lie‐Wen Xie, Jin‐Hui Yang, Ping Xu
+   Year: 2006
+   Citations: 2468
+   Source: Chemical Geology
+   DOI: https://doi.org/10.1016/j.chemgeo.2006.05.003
+   URL: https://doi.org/10.1016/j.chemgeo.2006.05.003
+   Open Access: No
+
+20. Calibration of the Lutetium-Hafnium Clock
+   Authors: Erik E. Scherer, Carsten Münker, Klaus Mezger
+   Year: 2001
+   Citations: 2416
+   Source: Science
+   DOI: https://doi.org/10.1126/science.1061372
+   URL: https://doi.org/10.1126/science.1061372
+   Open Access: No
+
+21. TEMORA 1: a new zircon standard for Phanerozoic U–Pb geochronology
+   Authors: L. P. Black, Sandra L. Kamo, Charlotte M. Allen, John N. Aleinikoff, Donald W. Davis
+   Year: 2003
+   Citations: 2255
+   Source: Chemical Geology
+   DOI: https://doi.org/10.1016/s0009-2541(03)00165-7
+   URL: https://doi.org/10.1016/s0009-2541(03)00165-7
+   Open Access: No
+
+22. Methods and code for ‘classical’ age-modelling of radiocarbon sequences
+   Authors: Maarten Blaauw
+   Year: 2010
+   Citations: 2142
+   Source: Quaternary Geochronology
+   DOI: https://doi.org/10.1016/j.quageo.2010.01.002
+   URL: https://doi.org/10.1016/j.quageo.2010.01.002
+   Open Access: No
+
+23. Formation of the 1300-km-wide intracontinental orogen and postorogenic magmatic province in Mesozoic South China: A flat-slab subduction model
+   Authors: Zheng‐Xiang Li, Xian‐Hua Li
+   Year: 2007
+   Citations: 1973
+   Source: Geology
+   DOI: https://doi.org/10.1130/g23193a.1
+   URL: https://doi.org/10.1130/g23193a.1
+   Open Access: No
+
+24. Hydrocarbon Separations in a Metal-Organic Framework with Open Iron(II) Coordination Sites
+   Authors: Eric D. Bloch, Wendy L. Queen, Rajamani Krishna, Joseph M. Zadrozny, Craig M. Brown
+   Year: 2012
+   Citations: 1830
+   Source: Science
+   DOI: https://doi.org/10.1126/science.1217544
+   URL: https://doi.org/10.1126/science.1217544
+   Open Access: No
+
+25. Archean blocks and their boundaries in the North China Craton: lithological, geochemical, structural and P–T path constraints and tectonic evolution
+   Authors: Guochun Zhao, Simon A. Wilde, Peter A. Cawood, Min Sun
+   Year: 2001
+   Citations: 1827
+   Source: Precambrian Research
+   DOI: https://doi.org/10.1016/s0301-9268(00)00154-6
+   URL: https://doi.org/10.1016/s0301-9268(00)00154-6
+   Open Access: No
