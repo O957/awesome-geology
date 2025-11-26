@@ -1,0 +1,226 @@
+Top 25 Papers Citation Search Results
+Generated: 2025-10-28 02:35:53
+================================================================================
+
+1. <i>The Structure of Scientific Revolutions</i>
+   Authors: Thomas Kühn, Richard Schlegel
+   Year: 1963
+   Citations: 36815
+   Source: Physics Today
+   DOI: https://doi.org/10.1063/1.3050879
+   URL: https://doi.org/10.1063/1.3050879
+   Open Access: No
+
+2. A Thousand Plateaus: Capitalism and Schizophrenia
+   Authors: Sander L. Gilman, Gilles Deleuze, Félix Guattari, Brian Massumi
+   Year: 1989
+   Citations: 23003
+   Source: The Journal of Interdisciplinary History
+   DOI: https://doi.org/10.2307/203963
+   URL: https://doi.org/10.2307/203963
+   Open Access: No
+
+3. Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks
+   Authors: Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros
+   Year: 2017
+   Citations: 19970
+   Source: Unknown
+   DOI: https://doi.org/10.1109/iccv.2017.244
+   URL: https://doi.org/10.1109/iccv.2017.244
+   Open Access: Yes
+
+4. Production, use, and fate of all plastics ever made
+   Authors: Roland Geyer, Jenna Jambeck, Kara Lavender Law
+   Year: 2017
+   Citations: 14850
+   Source: Science Advances
+   DOI: https://doi.org/10.1126/sciadv.1700782
+   URL: https://doi.org/10.1126/sciadv.1700782
+   Open Access: Yes
+
+5. CRC Handbook of Chemistry and Physics
+   Authors: Unknown
+   Year: 2016
+   Citations: 13521
+   Source: CRC Press eBooks
+   DOI: https://doi.org/10.1201/9781315380476
+   URL: https://doi.org/10.1201/9781315380476
+   Open Access: Yes
+
+6. Data clustering
+   Authors: Anil K. Jain, M. Narasimha Murty, Patrick J. Flynn
+   Year: 1999
+   Citations: 13105
+   Source: ACM Computing Surveys
+   DOI: https://doi.org/10.1145/331499.331504
+   URL: https://doi.org/10.1145/331499.331504
+   Open Access: Yes
+
+7. A safe operating space for humanity
+   Authors: Johan Rockström, Will Steffen, Kevin J. Noone, Åsa Persson, F. Stuart Chapin
+   Year: 2009
+   Citations: 11983
+   Source: Nature
+   DOI: https://doi.org/10.1038/461472a
+   URL: https://doi.org/10.1038/461472a
+   Open Access: Yes
+
+8. Planetary boundaries: Guiding human development on a changing planet
+   Authors: Will Steffen, Katherine Richardson, Johan Rockström, Sarah Cornell, Ingo Fetzer
+   Year: 2015
+   Citations: 11105
+   Source: Science
+   DOI: https://doi.org/10.1126/science.1259855
+   URL: https://doi.org/10.1126/science.1259855
+   Open Access: Yes
+
+9. The continental crust: its composition and evolution
+   Authors: Brian F. Windley
+   Year: 1986
+   Citations: 11013
+   Source: Physics of The Earth and Planetary Interiors
+   DOI: https://doi.org/10.1016/0031-9201(86)90093-2
+   URL: https://doi.org/10.1016/0031-9201(86)90093-2
+   Open Access: No
+
+10. IOP Conference Series: Earth and Environmental Science
+   Authors: Inez Slamet, Rauza Sukma, Zuldadan Naspendra, Aprisal Aprisal, Nurul Hijri
+   Year: 2020
+   Citations: 10892
+   Source: IOP Conference Series Earth and Environmental Science
+   DOI: https://doi.org/10.1088/issn.1755-1315
+   URL: https://doi.org/10.1088/issn.1755-1315
+   Open Access: Yes
+
+11. High-Resolution Global Maps of 21st-Century Forest Cover Change
+   Authors: Matthew C. Hansen, Peter Potapov, Rebecca Moore, M. Hancher, Svetlana Turubanova
+   Year: 2013
+   Citations: 10683
+   Source: Science
+   DOI: https://doi.org/10.1126/science.1244693
+   URL: https://doi.org/10.1126/science.1244693
+   Open Access: No
+
+12. The continental crust: Its composition and evolution
+   Authors: Stuart Ross Taylor, S. M. McLennan
+   Year: 1985
+   Citations: 10484
+   Source: Unknown
+   Open Access: No
+
+13. <scp>micro</scp>‐<scp>checker</scp>: software for identifying and correcting genotyping errors in microsatellite data
+   Authors: Cock van Oosterhout, William F. Hutchinson, D. P. M. Wills, Peter Shipley
+   Year: 2004
+   Citations: 10273
+   Source: Molecular Ecology Notes
+   DOI: https://doi.org/10.1111/j.1471-8286.2004.00684.x
+   URL: https://doi.org/10.1111/j.1471-8286.2004.00684.x
+   Open Access: Yes
+
+14. Trends, Rhythms, and Aberrations in Global Climate 65 Ma to Present
+   Authors: James C. Zachos, Mark Pagani, Lisa C. Sloan, Ellen Thomas, Katharina Billups
+   Year: 2001
+   Citations: 10084
+   Source: Science
+   DOI: https://doi.org/10.1126/science.1059412
+   URL: https://doi.org/10.1126/science.1059412
+   Open Access: No
+
+15. Bayesian Phylogenetics with BEAUti and the BEAST 1.7
+   Authors: Alexei J. Drummond, Marc A. Suchard, Dong Xie, Andrew Rambaut
+   Year: 2012
+   Citations: 9950
+   Source: Molecular Biology and Evolution
+   DOI: https://doi.org/10.1093/molbev/mss075
+   URL: https://doi.org/10.1093/molbev/mss075
+   Open Access: Yes
+
+16. Categorical Data Analysis
+   Authors: David E. Hapeman
+   Year: 1991
+   Citations: 9373
+   Source: Technometrics
+   DOI: https://doi.org/10.1080/00401706.1991.10484817
+   URL: https://doi.org/10.1080/00401706.1991.10484817
+   Open Access: No
+
+17. Gene Dose of Apolipoprotein E Type 4 Allele and the Risk of Alzheimer's Disease in Late Onset Families
+   Authors: Elizabeth H. Corder, Ann M. Saunders, Warren J. Strittmatter, D. E. Schmechel, P. C. Gaskell
+   Year: 1993
+   Citations: 9178
+   Source: Science
+   DOI: https://doi.org/10.1126/science.8346443
+   URL: https://doi.org/10.1126/science.8346443
+   Open Access: No
+
+18. Phonons and related crystal properties from density-functional perturbation theory
+   Authors: Stefano Baroni, Stefano de Gironcoli, Andrea Dal Corso, Paolo Giannozzi
+   Year: 2001
+   Citations: 9010
+   Source: Reviews of Modern Physics
+   DOI: https://doi.org/10.1103/revmodphys.73.515
+   URL: https://doi.org/10.1103/revmodphys.73.515
+   Open Access: Yes
+
+19. A Computer Movie Simulating Urban Growth in the Detroit Region
+   Authors: Waldo Tobler
+   Year: 1970
+   Citations: 9003
+   Source: Economic Geography
+   DOI: https://doi.org/10.2307/143141
+   URL: https://doi.org/10.2307/143141
+   Open Access: No
+
+20. Food in the Anthropocene: the EAT–Lancet Commission on healthy diets from sustainable food systems
+   Authors: Walter C. Willett, Johan Rockström, Brent Loken, Marco Springmann, Tim Lang
+   Year: 2019
+   Citations: 8962
+   Source: The Lancet
+   DOI: https://doi.org/10.1016/s0140-6736(18)31788-4
+   URL: https://doi.org/10.1016/s0140-6736(18)31788-4
+   Open Access: Yes
+
+21. Approximation of terrestrial lead isotope evolution by a two-stage model
+   Authors: J. S. Stacey, Jan D. Kramers
+   Year: 1975
+   Citations: 8831
+   Source: Earth and Planetary Science Letters
+   DOI: https://doi.org/10.1016/0012-821x(75)90088-6
+   URL: https://doi.org/10.1016/0012-821x(75)90088-6
+   Open Access: No
+
+22. Dating of the human-ape splitting by a molecular clock of mitochondrial DNA
+   Authors: Masami Hasegawa, Hirohisa Kishino, Taka-aki Yano
+   Year: 1985
+   Citations: 8816
+   Source: Journal of Molecular Evolution
+   DOI: https://doi.org/10.1007/bf02101694
+   URL: https://doi.org/10.1007/bf02101694
+   Open Access: No
+
+23. Overview of the radiometric and biophysical performance of the MODIS vegetation indices
+   Authors: Alfredo Huete, Kamel Didan, Tomoaki Miura, E Patiño Rodriguez, Xiang Gao
+   Year: 2002
+   Citations: 8813
+   Source: Remote Sensing of Environment
+   DOI: https://doi.org/10.1016/s0034-4257(02)00096-2
+   URL: https://doi.org/10.1016/s0034-4257(02)00096-2
+   Open Access: No
+
+24. An Approach toward a Rational Classification of Climate
+   Authors: C. W. Thornthwaite
+   Year: 1948
+   Citations: 8717
+   Source: Geographical Review
+   DOI: https://doi.org/10.2307/210739
+   URL: https://doi.org/10.2307/210739
+   Open Access: No
+
+25. THE STRUCTURE OF SCIENTIFIC REVOLUTIONS
+   Authors: J. E. McGuire
+   Year: 1963
+   Citations: 8583
+   Source: Philosophical Books
+   DOI: https://doi.org/10.1111/j.1468-0149.1963.tb00813.x
+   URL: https://doi.org/10.1111/j.1468-0149.1963.tb00813.x
+   Open Access: No

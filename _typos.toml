@@ -14,6 +14,7 @@ dot_fot = ".fot"
 dot_ist = ".ist"
 Cann = "Cann"
 Celles = "Celles"
+Shepard = "Shepard"
 
 [files]
 extend-exclude = [
