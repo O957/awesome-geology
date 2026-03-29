@@ -98,6 +98,7 @@ _A curated list of awesome resources for geology._
 
 1. [Florian Wellmann](https://github.com/flohorovicic): Developer of GemPy for 3D structural geological modeling.
 2. [Wolfgang Schwanghart](https://github.com/wschwanghart): University of Potsdam geomorphologist; creator of TopoToolbox.
+3. ...
 
 ### Courses
 
