@@ -1,304 +1,147 @@
 # Awesome Geology [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-_A curated list of awesome resources for geology._
+_A curated[^curation_details] list of awesome resources on geology[^definition_geology]._
 
-<details markdown=1>
-
-<summary> Definition From Wikipedia </summary>
-
-> **Geology** is a branch of [natural science](https://en.wikipedia.org/wiki/Natural_science "Natural science") concerned with the Earth and other [astronomical bodies](https://en.wikipedia.org/wiki/Astronomical_bodies "Astronomical bodies"), the rocks of which they are composed, and the processes by which they change over time. [[1](https://en.wikipedia.org/wiki/Geology#cite_note-Geology_Definition-1)] The name comes from [Ancient Greek](https://en.wikipedia.org/wiki/Ancient_Greek_language "Ancient Greek language") [γῆ](https://en.wiktionary.org/wiki/%CE%B3%E1%BF%86#Ancient_Greek "wikt:γῆ") *(*gê*)* 'earth' and [λoγία](https://en.wiktionary.org/wiki/-#Ancient_Greek "wikt:-") *(*[-logía](https://en.wikipedia.org/wiki/-logy "-logy")*)* 'study of, discourse'. [[2](https://en.wikipedia.org/wiki/Geology#cite_note-OnlineEtDict-2)] [[3](https://en.wikipedia.org/wiki/Geology#cite_note-LSJ-3)] Modern geology significantly overlaps all other [Earth sciences](https://en.wikipedia.org/wiki/Earth_science "Earth science"), including [hydrology](https://en.wikipedia.org/wiki/Hydrology "Hydrology"). It is integrated with [Earth system science](https://en.wikipedia.org/wiki/Earth_system_science "Earth system science") and [planetary science](https://en.wikipedia.org/wiki/Planetary_science "Planetary science").
->
-> Geology describes the [structure of the Earth](https://en.wikipedia.org/wiki/Structure_of_the_Earth "Structure of the Earth") on and beneath its surface and the processes that have shaped that structure. [Geologists](https://en.wikipedia.org/wiki/Geologists "Geologists") study the mineralogical composition of rocks in order to get insight into their history of formation. Geology determines the [relative ages](https://en.wikipedia.org/wiki/Relative_ages "Relative ages") of rocks found at a given location; [geochemistry](https://en.wikipedia.org/wiki/Geochemistry "Geochemistry") (a branch of geology) determines their [absolute ages](https://en.wikipedia.org/wiki/Geochronology "Geochronology"). [[4]](https://en.wikipedia.org/wiki/Geology#cite_note-4) By combining various petrological, crystallographic, and paleontological tools, [geologists](https://en.wikipedia.org/wiki/Geologist "Geologist") are able to chronicle the geological [history of the Earth](https://en.wikipedia.org/wiki/History_of_the_Earth "History of the Earth") as a whole. One aspect is to demonstrate the [age of the Earth](https://en.wikipedia.org/wiki/Age_of_the_Earth "Age of the Earth"). Geology provides evidence for [plate tectonics](https://en.wikipedia.org/wiki/Plate_tectonics "Plate tectonics"), the [evolutionary history of life](https://en.wikipedia.org/wiki/Evolutionary_history_of_life "Evolutionary history of life"), and the Earth's [past climates](https://en.wikipedia.org/wiki/Past_climates "Past climates").
->
-> [Geologists](https://en.wikipedia.org/wiki/Geologist "Geologist") broadly study the properties and processes of Earth and other terrestrial planets. Geologists use a wide variety of methods to understand the Earth's structure and evolution, including [fieldwork](https://en.wikipedia.org/wiki/Fieldwork "Fieldwork"), [rock description](https://en.wikipedia.org/wiki/Petrology "Petrology"), [geophysical techniques](https://en.wikipedia.org/wiki/Geophysical_survey "Geophysical survey"), [chemical analysis](https://en.wikipedia.org/wiki/Geochemistry "Geochemistry"), [physical experiments](https://en.wikipedia.org/wiki/Physical_experiment "Physical experiment"), and [numerical modelling](https://en.wikipedia.org/wiki/Numerical_modelling "Numerical modelling"). In practical terms, geology is important for [mineral](https://en.wikipedia.org/wiki/Mining "Mining") and [hydrocarbon](https://en.wikipedia.org/wiki/Petroleum_geology "Petroleum geology") exploration and exploitation, evaluating [water resources](https://en.wikipedia.org/wiki/Water_resources "Water resources"), understanding [natural hazards](https://en.wikipedia.org/wiki/Natural_hazard "Natural hazard"), remediating [environmental](https://en.wikipedia.org/wiki/Environmental_Geology "Environmental Geology") problems, and providing insights into past [climate change](https://en.wikipedia.org/wiki/Climate_variability_and_change "Climate variability and change"). Geology is a major [academic discipline](https://en.wikipedia.org/wiki/Academic_discipline "Academic discipline"), and it is central to [geological engineering](https://en.wikipedia.org/wiki/Geological_engineering "Geological engineering") and plays an important role in [geotechnical engineering](https://en.wikipedia.org/wiki/Geotechnical_engineering "Geotechnical engineering"). [^wikipedia_citation]
-
-[^wikipedia_citation]: Wikipedia contributors. "Geology." Wikipedia. Last modified October 23, 2025. Accessed October 24, 2025. <https://en.wikipedia.org/wiki/Geology>.
-
-</details>
+[^definition_geology]: (from Wikipedia, see citation at the bottom) **Geology** is a branch of [natural science](https://en.wikipedia.org/wiki/Natural_science "Natural science") concerned with the Earth and other [astronomical bodies](https://en.wikipedia.org/wiki/Astronomical_bodies "Astronomical bodies"), the rocks of which they are composed, and the processes by which they change over time. [[1](https://en.wikipedia.org/wiki/Geology#cite_note-Geology_Definition-1)] The name comes from [Ancient Greek](https://en.wikipedia.org/wiki/Ancient_Greek_language "Ancient Greek language") [γῆ](https://en.wiktionary.org/wiki/%CE%B3%E1%BF%86#Ancient_Greek "wikt:γῆ") _(_gê_)_ 'earth' and [λoγία](https://en.wiktionary.org/wiki/-#Ancient_Greek "wikt:-") _(_[-logía](https://en.wikipedia.org/wiki/-logy "-logy")_)_ 'study of, discourse'. [[2](https://en.wikipedia.org/wiki/Geology#cite_note-OnlineEtDict-2)] [[3](https://en.wikipedia.org/wiki/Geology#cite_note-LSJ-3)] Modern geology significantly overlaps all other [Earth sciences](https://en.wikipedia.org/wiki/Earth_science "Earth science"), including [hydrology](https://en.wikipedia.org/wiki/Hydrology "Hydrology"). It is integrated with [Earth system science](https://en.wikipedia.org/wiki/Earth_system_science "Earth system science") and [planetary science](https://en.wikipedia.org/wiki/Planetary_science "Planetary science"). Geology describes the [structure of the Earth](https://en.wikipedia.org/wiki/Structure_of_the_Earth "Structure of the Earth") on and beneath its surface and the processes that have shaped that structure. [Geologists](https://en.wikipedia.org/wiki/Geologists "Geologists") study the mineralogical composition of rocks in order to get insight into their history of formation. Geology determines the [relative ages](https://en.wikipedia.org/wiki/Relative_ages "Relative ages") of rocks found at a given location; [geochemistry](https://en.wikipedia.org/wiki/Geochemistry "Geochemistry") (a branch of geology) determines their [absolute ages](https://en.wikipedia.org/wiki/Geochronology "Geochronology"). [[4]](https://en.wikipedia.org/wiki/Geology#cite_note-4) By combining various petrological, crystallographic, and paleontological tools, [geologists](https://en.wikipedia.org/wiki/Geologist "Geologist") are able to chronicle the geological [history of the Earth](https://en.wikipedia.org/wiki/History_of_the_Earth "History of the Earth") as a whole. One aspect is to demonstrate the [age of the Earth](https://en.wikipedia.org/wiki/Age_of_the_Earth "Age of the Earth"). Geology provides evidence for [plate tectonics](https://en.wikipedia.org/wiki/Plate_tectonics "Plate tectonics"), the [evolutionary history of life](https://en.wikipedia.org/wiki/Evolutionary_history_of_life "Evolutionary history of life"), and the Earth's [past climates](https://en.wikipedia.org/wiki/Past_climates "Past climates"). [Geologists](https://en.wikipedia.org/wiki/Geologist "Geologist") broadly study the properties and processes of Earth and other terrestrial planets. Geologists use a wide variety of methods to understand the Earth's structure and evolution, including [fieldwork](https://en.wikipedia.org/wiki/Fieldwork "Fieldwork"), [rock description](https://en.wikipedia.org/wiki/Petrology "Petrology"), [geophysical techniques](https://en.wikipedia.org/wiki/Geophysical_survey "Geophysical survey"), [chemical analysis](https://en.wikipedia.org/wiki/Geochemistry "Geochemistry"), [physical experiments](https://en.wikipedia.org/wiki/Physical_experiment "Physical experiment"), and [numerical modelling](https://en.wikipedia.org/wiki/Numerical_modelling "Numerical modelling"). In practical terms, geology is important for [mineral](https://en.wikipedia.org/wiki/Mining "Mining") and [hydrocarbon](https://en.wikipedia.org/wiki/Petroleum_geology "Petroleum geology") exploration and exploitation, evaluating [water resources](https://en.wikipedia.org/wiki/Water_resources "Water resources"), understanding [natural hazards](https://en.wikipedia.org/wiki/Natural_hazard "Natural hazard"), remediating [environmental](https://en.wikipedia.org/wiki/Environmental_Geology "Environmental Geology") problems, and providing insights into past [climate change](https://en.wikipedia.org/wiki/Climate_variability_and_change "Climate variability and change"). Geology is a major [academic discipline](https://en.wikipedia.org/wiki/Academic_discipline "Academic discipline"), and it is central to [geological engineering](https://en.wikipedia.org/wiki/Geological_engineering "Geological engineering") and plays an important role in [geotechnical engineering](https://en.wikipedia.org/wiki/Geotechnical_engineering "Geotechnical engineering"). CITATION: Wikipedia contributors. "Geology." Wikipedia. Last modified October 23, 2025. Accessed October 24, 2025. <https://en.wikipedia.org/wiki/Geology>.
 
 ![](./assets/geology.jpg) [^image_attribution]
 
 [^image_attribution]: Image used under the [Unsplash License](https://unsplash.com/license), i.e. "All images can be downloaded and used for free", "Commercial and non-commercial purposes", and "No permission needed (though attribution is appreciated!)". Image Link: <https://unsplash.com/photos/a-mountain-with-a-very-interesting-pattern-on-it-svcatmhPk9U>. Image Description: "a mountain with a very interesting pattern on it". Image Photographer: [Brian Cornelius](https://unsplash.com/@bmcornelius).
 
-> [!NOTE]
->
-> This list follows specific scoping guidelines. The **Books** section primarily contains textbooks. **Organizations** is divided into GitHub organizations and non-GitHub organizations. **Researchers** exclusively features researcher GitHub profiles. A **Reading Lists** section was chosen over individual papers, as managing the volume of papers on the topic at hand in a single list in untenable. **Repositories** targets larger work on GitHub and excludes, for example, standalone code for papers. **Datasets** includes only publicly accessible data. **Software** features notable tools, libraries, and frameworks not available on GitHub. **Websites** covers informational sites, news sources, and community hubs. **Educational Resources** includes tutorials, videos, and other learning materials.
+[^curation_details]: This list follows specific scoping guidelines. **Databases & Data Repositories** includes geological survey databases and geoscience literature databases. **GIS & Mapping Software** covers open-source, mobile, and commercial geographic information systems. **Organizations & Societies** lists professional geological societies and unions. **Journals & Publications** features major geology journals and open access publications. **Educational Resources** includes teaching modules, lesson plans, and mineral databases. **Field Tools & Equipment** covers essential geological field instruments. **Government Geological Surveys** lists national geological survey agencies. **Data Standards & Formats** covers geoscience data transfer standards.
 
 ## Contents
 
-- [General Resources](#general-resources)
-  - [Textbooks](#textbooks)
-  - [Books](#books)
-  - [Journals](#journals)
-  - [Researchers](#researchers)
-  - [Courses](#courses)
-  - [Conferences](#conferences)
-  - [Datasets](#datasets)
-  - [Websites](#websites)
-  - [Geological Societies](#geological-societies)
-- [Mineralogy and Petrology](#mineralogy-and-petrology)
-  - [Reading Lists](#reading-lists)
-  - [Repositories](#repositories)
-  - [Software](#software)
-- [Structural Geology and Tectonics](#structural-geology-and-tectonics)
-  - [Reading Lists](#reading-lists-1)
-  - [Repositories](#repositories-1)
-  - [Software](#software-1)
-- [Sedimentology and Stratigraphy](#sedimentology-and-stratigraphy)
-  - [Reading Lists](#reading-lists-2)
-  - [Repositories](#repositories-2)
-  - [Software](#software-2)
-- [Volcanology](#volcanology)
-  - [Reading Lists](#reading-lists-3)
-  - [Repositories](#repositories-3)
-  - [Software](#software-3)
-- [Geomorphology](#geomorphology)
-  - [Reading Lists](#reading-lists-4)
-  - [Repositories](#repositories-4)
-  - [Software](#software-4)
-- [Geochemistry](#geochemistry)
-  - [Reading Lists](#reading-lists-5)
-  - [Repositories](#repositories-5)
-  - [Software](#software-5)
-- [Economic Geology](#economic-geology)
-  - [Reading Lists](#reading-lists-6)
-  - [Repositories](#repositories-6)
-  - [Software](#software-6)
-- [Planetary Geology](#planetary-geology)
-  - [Reading Lists](#reading-lists-7)
-  - [Repositories](#repositories-7)
-  - [Software](#software-7)
+- [Databases & Data Repositories](#databases--data-repositories)
+- [GIS & Mapping Software](#gis--mapping-software)
+- [Organizations & Societies](#organizations--societies)
+- [Journals & Publications](#journals--publications)
 - [Educational Resources](#educational-resources)
-- [Contribution](#contribution)
-- [License](#license)
+- [Field Tools & Equipment](#field-tools--equipment)
+- [Government Geological Surveys](#government-geological-surveys)
+- [Data Standards & Formats](#data-standards--formats)
+- [People](#people)
+- [Related Awesome Lists](#related-awesome-lists)
 
-## General Resources
+## Databases & Data Repositories
 
-### Textbooks
+1. [British Geological Survey (BGS) Databases](https://www.bgs.ac.uk/technologies/databases/): BRITROCKS mineralogy/petrology, borehole materials, groundwater levels, geomagnetic data.
+2. [USGS National Geologic Map Database](https://ngmdb.usgs.gov): Free repository with thousands of print-style geologic maps across the United States.
+3. [GeMS (Geologic Map Schema)](https://ngmdb.usgs.gov/Info/standards/GeMS/): Standard schema for geologic map publications by USGS National Cooperative Geologic Mapping Program.
+4. [GeoRef](https://www.americangeosciences.org/information/georef): Comprehensive database of geoscience literature (American Geosciences Institute).
+5. [EarthChem](https://www.earthchem.org): Data system for geochemistry and petrology.
 
-1. [Earth: Portrait of a Planet](https://www.amazon.com/Earth-Portrait-Planet-Stephen-Marshak/dp/0393937518): Stephen Marshak's comprehensive introductory textbook.
-2. [The Earth System](https://www.pearson.com/us/higher-education/program/Kump-The-Earth-System-3rd-Edition/PGM282784.html): Kump, Kasting, and Crane on Earth as an integrated system.
-3. [Principles of Igneous and Metamorphic Petrology](https://www.cambridge.org/core/books/principles-of-igneous-and-metamorphic-petrology/E8F8E8E8E8E8E8E8E8E8E8E8E8E8E8E8): John Winter's definitive petrology text.
-4. [Sedimentary Rocks in the Field](https://www.wiley.com/en-us/Sedimentary+Rocks+in+the+Field%3A+A+Practical+Guide%2C+4th+Edition-p-9780470689165): Practical field guide by Dorrik Stow.
-5. [Structural Geology](https://www.cambridge.org/core/books/structural-geology/8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E8E): Haakon Fossen's modern treatment.
-6. [Geomorphology: The Mechanics and Chemistry of Landscapes](https://www.cambridge.org/core/books/geomorphology/8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F): Robert Anderson and Suzanne Anderson.
+## GIS & Mapping Software
 
-### Journals
+### Open Source
 
-1. [Geology](https://pubs.geoscienceworld.org/geology): Flagship journal of the Geological Society of America.
-2. [Journal of the Geological Society](https://www.lyellcollection.org/journal/jgs): Published by the Geological Society of London.
-3. [Tectonics](https://agupubs.onlinelibrary.wiley.com/journal/19449194): AGU journal on structural geology and tectonics.
-4. [Sedimentology](https://onlinelibrary.wiley.com/journal/13653091): International Association of Sedimentologists journal.
-5. [Journal of Petrology](https://academic.oup.com/petrology): Focuses on igneous and metamorphic processes.
-6. [Economic Geology](https://pubs.geoscienceworld.org/segweb/economicgeology): Journal of ore deposits and mineral resources.
-7. [Bulletin of Volcanology](https://www.springer.com/journal/445): International research on volcanology.
-8. [Gondwana Research](https://www.journals.elsevier.com/gondwana-research): Geodynamics and global tectonics.
+1. [QGIS](https://qgis.org): Free, open-source geographic information system with extensive plugin ecosystem.
+2. [GRASS GIS](https://grass.osgeo.org): Over 350 vector and raster manipulation tools for geospatial analysis.
+3. [gvSIG](http://www.gvsig.com): Free GIS with impressive CAD tools and OpenCAD Tools integration.
+4. [OpenJUMP](http://www.openjump.org): Open-source GIS with plugins for editing, raster processing, spatial analysis.
 
-### Researchers
+### Mobile & Field Apps
 
-1. [Florian Wellmann](https://github.com/flohorovicic): Developer of GemPy for 3D structural geological modeling.
-2. [Wolfgang Schwanghart](https://github.com/wschwanghart): University of Potsdam geomorphologist; creator of TopoToolbox.
+1. [Field Clino](https://fieldclino.com): Mobile geological mapping application.
+2. [Mapboard GIS](https://mapboard-gis.app): iPad/Apple Pencil geological mapping app ($30/year).
+3. [FieldMove](https://www.mve.com/digital-mapping/fieldmove-clino): Digital geological mapping on mobile devices.
 
-### Courses
+### Commercial
 
-1. [Introduction to Geology (MIT OpenCourseWare)](https://ocw.mit.edu/courses/earth-atmospheric-and-planetary-sciences/): Free MIT introductory geology course.
-2. [The Dynamic Earth (Coursera)](https://www.coursera.org/learn/matlab-programming-for-engineers-and-scientists): University of Illinois course on plate tectonics and Earth processes.
-3. [Geology and Earth History (edX)](https://www.edx.org/): Earth science fundamentals and geological time.
-4. [Geoscience: the Earth and Its Resources (FutureLearn)](https://www.futurelearn.com/): University of Exeter course on Earth resources.
-5. [Exploring Geoscience (Yale Open Courses)](https://oyc.yale.edu/geology-and-geophysics): Yale courses on various geology topics.
+1. [ArcGIS](https://www.esri.com/arcgis): Industry-standard GIS platform by Esri.
+2. [Leapfrog Geo](https://www.seequent.com/products-solutions/leapfrog-geo/): 3D geological modeling software by Seequent.
 
-### Conferences
+## Organizations & Societies
 
-1. [Geological Society of America (GSA) Annual Meeting](https://www.geosociety.org/GSA/Events/Annual_Meeting/GSA/Events/gsa2024.aspx): Major North American geology conference.
-2. [American Geophysical Union (AGU) Fall Meeting](https://www.agu.org/fall-meeting): Largest Earth and space science meeting worldwide.
-3. [European Geosciences Union (EGU) General Assembly](https://www.egu.eu/meetings/general-assembly/): Major European Earth science conference.
-4. [Goldschmidt Conference](https://www.geochemsoc.org/): Premier geochemistry conference.
-5. [International Geological Congress (IGC)](https://www.iugs.org/): Quadrennial global geology meeting.
+1. [Geological Society of America (GSA)](https://www.geosociety.org): Professional society with publications, meetings, and career resources.
+2. [American Geosciences Institute (AGI)](https://www.americangeosciences.org): Federation of geoscientific and professional associations.
+3. [Geological Society (London)](https://www.geolsoc.org.uk): UK-based professional body for geosciences.
+4. [European Geosciences Union (EGU)](https://www.egu.eu): Interdisciplinary organization promoting geosciences in Europe.
+5. [International Union of Geological Sciences (IUGS)](https://www.iugs.org): Global scientific organization for geology.
 
-### Datasets
+## Journals & Publications
 
-1. [MinDat](https://www.mindat.org/): Comprehensive mineral and locality database.
-2. [GeoMapApp](http://www.geomapapp.org/): Marine and terrestrial geospatial data exploration.
+### Major Journals
 
-### Websites
+1. [Geology](https://pubs.geoscienceworld.org/geology): GSA flagship journal (Impact Factor: 5.8).
+2. [Journal of Geology](https://www.journals.uchicago.edu/toc/jg/current): University of Chicago Press.
+3. [Geophysical Research Letters](https://agupubs.onlinelibrary.wiley.com/journal/19448007): AGU high-impact letters journal.
+4. [Tectonics](https://agupubs.onlinelibrary.wiley.com/journal/19449194): AGU journal on structural geology and tectonics.
+5. [Earth and Planetary Science Letters](https://www.sciencedirect.com/journal/earth-and-planetary-science-letters): Elsevier journal.
 
-1. [EarthLabs](https://serc.carleton.edu/earthlabs/index.html): Collection of Earth science teaching modules.
-2. [On the Cutting Edge](https://serc.carleton.edu/NAGTWorkshops/index.html): Professional development for geoscience educators.
-3. [IRIS](https://www.iris.edu/hq/): Educational resources for seismology.
+### Open Access
 
-### Books
-
-1. [Roadside Geology Series](https://www.mtnpress.com/roadside-geology/): State-by-state geological guides for North America.
-2. [Classic Geology in Europe Series](https://www.terrapublishing.net/classic-geology-in-europe.html): Regional geological guides for Europe.
-3. [Atlas of Igneous Rocks and Their Textures](https://www.amazon.com/Atlas-Igneous-Rocks-their-Textures/dp/0470022353): MacKenzie, Donaldson, and Guilford photographic atlas.
-4. [Atlas of Metamorphic Rocks and Their Textures](https://www.wiley.com/en-us/Atlas+of+Metamorphic+Rocks+and+their+Textures-p-9780470221747): Bruce Yardley and colleagues.
-5. [Atlas of Sedimentary Rocks Under the Microscope](https://www.amazon.com/Atlas-Sedimentary-Rocks-Under-Microscope/dp/0582061938): A.E. Adams and colleagues.
-
-### Organizations
-
-#### GitHub Organizations
-
-1. [GPlates](https://github.com/GPlates): Interactive plate tectonics visualization software organization.
-2. [USGS Astrogeology Science Center](https://github.com/USGS-Astrogeology): Planetary geology tools and data.
-
-#### Geological Societies
-
-1. [Geological Society of America (GSA)](https://www.geosociety.org/): Major North American geological society.
-2. [Geological Society of London](https://www.geolsoc.org.uk/): UK-based international society.
-3. [American Geophysical Union (AGU)](https://www.agu.org/): Earth and space sciences organization.
-4. [European Geosciences Union (EGU)](https://www.egu.eu/): Pan-European geosciences organization.
-5. [International Association of Sedimentologists](https://www.sedimentologists.org/): Global sedimentology organization.
-6. [Mineralogical Society of America](https://www.minsocam.org/): Mineralogy, petrology, and geochemistry.
-7. [Society of Economic Geologists](https://www.segweb.org/): Ore deposits and mineral resources.
-
-## Mineralogy and Petrology
-
-### Reading Lists
-
-1. [O957's Papers - Mineralogy and Petrology](assets/o957_reading_list.md#mineralogy-and-petrology)
-
-### Repositories
-
-1. [Perple_X on GitHub](https://github.com/ondrolexa/Perple_X): Thermodynamic modeling tools.
-2. [pyrolite](https://github.com/morganjwilliams/pyrolite): Python tools for geochemistry and petrology.
-3. [ThermoEngine](https://gitlab.com/ENKI-portal/ThermoEngine): Thermodynamic calculation engine.
-
-### Software
-
-1. [Theriak-Domino](http://www.esci.umn.edu/people/researchers/doug/theriak/theriak.htm): Calculation of phase diagrams and equilibrium assemblages.
-2. [MELTS](http://melts.ofm-research.org/): Thermodynamic modeling of magmatic systems.
-3. [CSpace](https://www.mindat.org/software-cspace.html): Crystallographic software for mineral identification.
-
-## Structural Geology and Tectonics
-
-### Reading Lists
-
-1. [O957's Papers - Structural Geology and Tectonics](assets/o957_reading_list.md#structural-geology-and-tectonics)
-
-### Repositories
-
-1. [mplstereonet](https://github.com/joferkington/mplstereonet): Python library for stereographic projections.
-2. [apsg](https://github.com/ondrolexa/apsg): Python package for structural geology analysis.
-3. [StructuralGeology.jl](https://github.com/aurorarossi/StructuralGeology.jl): Julia package for structural geology.
-
-### Software
-
-1. [Stereonet](http://www.geo.cornell.edu/geology/faculty/RWA/programs/stereonet.html): Structural analysis using stereographic projections.
-2. [FaultKin](http://www.geo.arizona.edu/geo5xx/geos577/projects/faultkin/): Analysis of fault-slip data and stress tensors.
-3. [Move](https://www.petex.com/products/move-suite/): Structural modeling and analysis (commercial with academic licenses).
-
-## Sedimentology and Stratigraphy
-
-### Reading Lists
-
-1. [O957's Papers - Sedimentology and Stratigraphy](assets/o957_reading_list.md#sedimentology-and-stratigraphy)
-
-### Repositories
-
-1. [SedimentTransport](https://github.com/zsylvester/segmenteverywhere): Python tools for sediment transport modeling.
-2. [stratigraph](https://github.com/mcunningham917/stratigraph): Stratigraphic analysis tools.
-3. [pyGMS](https://github.com/davenquinn/python-gms): Python tools for geological modeling.
-
-### Software
-
-1. [SedLog](https://www.sedlog.com/): Graphic logging and visualization of sedimentary sequences.
-2. [Correlator](http://www.geologix.co.uk/): Stratigraphic correlation software.
-3. [Strater](https://www.goldensoftware.com/products/strater): Well log and borehole data visualization.
-
-## Volcanology
-
-### Reading Lists
-
-1. [O957's Papers - Volcanology](assets/o957_reading_list.md#volcanology)
-
-### Repositories
-
-1. [PyVBUS](https://github.com/vhub-dev/pyvbus): Python Volcanic and Ballistic Utility Suite.
-2. [MagmaPandas](https://github.com/TDGerve/MagmaPandas): Python tools for magma geochemistry.
-3. [VESIcal](https://github.com/kaylai/VESIcal): Volatiles in magmatic systems calculator.
-4. [FALL3D](https://gitlab.com/fall3d-distribution/v8): Atmospheric transport model for volcanic tephra.
-
-### Software
-
-1. [Ash3d](https://vhub.org/resources/ash3d): Volcanic ash transport and dispersion model.
-2. [PyFLOWGO](https://vhub.org/resources/pyflowgo): Lava flow modeling tool.
-
-## Geomorphology
-
-### Reading Lists
-
-1. [O957's Papers - Geomorphology](assets/o957_reading_list.md#geomorphology)
-
-### Repositories
-
-1. [TopoToolbox](https://github.com/wschwanghart/topotoolbox): MATLAB topographic analysis toolkit.
-2. [LSDTopoTools](https://github.com/LSDtopotools/LSDTopoTools2): Topographic analysis software suite.
-3. [Landlab](https://github.com/landlab/landlab): Python landscape evolution modeling framework.
-
-### Software
-
-## Geochemistry
-
-### Reading Lists
-
-1. [O957's Papers - Geochemistry](assets/o957_reading_list.md#geochemistry)
-
-### Repositories
-
-1. [pyrolite](https://github.com/morganjwilliams/pyrolite): Python geochemistry and petrology toolkit.
-2. [GCDkit](https://github.com/jfmoyen/GCDkit): R-based geochemical data toolkit.
-3. [alphaMELTS](https://github.com/magmasource/alphaMELTS): MELTS thermodynamic modeling wrapper.
-4. [GeoKit](https://github.com/jessepisel/geokit): Python tools for geochemical data analysis.
-
-### Software
-
-1. [IgPet](http://www.rockware.com/product/overview.php?id=4): Geochemical data processing and plotting.
-
-## Economic Geology
-
-### Reading Lists
-
-1. [O957's Papers - Economic Geology](assets/o957_reading_list.md#economic-geology)
-
-### Repositories
-
-1. [pyGSLIB](https://github.com/opengeostat/pygslib): Python geostatistics library for mining.
-2. [GeologicToolbox](https://github.com/52North/GeologicToolbox): Tools for 3D geological modeling.
-3. [GemPy](https://github.com/cgre-aachen/gempy): 3D geological modeling in Python.
-
-### Software
-
-1. [Leapfrog Geo](https://www.seequent.com/products-solutions/leapfrog-geo/): 3D geological modeling for mining (commercial).
-2. [MICROMINE](https://www.micromine.com/): Mining software for exploration and production.
-3. [MineSight](https://www.bentley.com/software/minesight/): Mine planning and design software.
-
-## Planetary Geology
-
-### Reading Lists
-
-1. [O957's Papers - Planetary Geology](assets/o957_reading_list.md#planetary-geology)
-
-### Repositories
-
-1. [ISIS](https://github.com/USGS-Astrogeology/ISIS3): USGS planetary image processing system.
-2. [planetaryimage](https://github.com/planetarypy/planetaryimage): Python library for planetary data formats.
-3. [plio](https://github.com/USGS-Astrogeology/plio): Python library for planetary I/O.
-
-### Software
-
-1. [JMARS](https://jmars.mars.asu.edu/): Java Mission-planning and Analysis for Remote Sensing.
-2. [CraterStats](https://www.geo.fu-berlin.de/en/geol/fachrichtungen/planet/software/): Crater size-frequency analysis.
+1. [Geoscience Frontiers](https://www.sciencedirect.com/journal/geoscience-frontiers): China University of Geosciences open access journal.
+2. [Solid Earth](https://www.solid-earth.net): EGU open access journal.
+3. [Earth Science Reviews](https://www.sciencedirect.com/journal/earth-science-reviews): Review articles (some open access options).
 
 ## Educational Resources
 
-1. [MIT OpenCourseWare - Earth Science](https://ocw.mit.edu/courses/earth-atmospheric-and-planetary-sciences/): Free online geology courses.
+1. [USGS Educational Resources](https://www.usgs.gov/education): Lesson plans, activities, maps, videos spanning 140+ years of research.
+2. [GSA K-12 Resources](https://www.geosociety.org/GSA/Education_Careers/K12/Home/GSA/Education_Careers/resources.aspx): Free downloadable teaching materials for K-12 educators.
+3. [EarthLabs](https://serc.carleton.edu/earthlabs/): Carleton College modules for teaching Earth science with real data.
+4. [Mineralogy Database](http://www.webmineral.com): Comprehensive mineral database with properties and crystallography.
+5. [MinDat.org](https://www.mindat.org): Mineral and locality database with over 400,000 photos.
 
-## Contribution
+## Field Tools & Equipment
+
+1. [Brunton Compasses](https://www.brunton.com): Professional geological compasses for strike/dip measurements.
+2. [Estwing Geology Hammers](https://www.estwing.com): Rock hammers and field equipment.
+3. [Hand Lenses (10x-20x)](https://www.bhigr.com/collections/hand-lenses): Essential magnification for mineral identification.
+4. [Acid Bottles](https://www.forestry-suppliers.com): HCl for carbonate testing in the field.
+5. [Field Books](https://www.riteintherain.com): Waterproof field notebooks.
+
+## Government Geological Surveys
+
+### United States
+
+1. [U.S. Geological Survey (USGS)](https://www.usgs.gov): Federal source for Earth science information.
+2. [California Geological Survey](https://www.conservation.ca.gov/cgs): State geological mapping and hazard assessment.
+3. [State Geological Surveys](https://www.stategeologists.org): Association of American State Geologists.
+
+### International
+
+1. [British Geological Survey (BGS)](https://www.bgs.ac.uk): UK national geoscience organization.
+2. [Geological Survey of Canada](https://www.nrcan.gc.ca/science-and-data/science-and-research/earth-sciences/geoscience-canada/17100): Natural Resources Canada.
+3. [Geoscience Australia](https://www.ga.gov.au): Australia's national geoscience agency.
+4. [BGR (Germany)](https://www.bgr.bund.de/EN): Federal Institute for Geosciences and Natural Resources.
+
+## Data Standards & Formats
+
+1. [GeoSciML](http://www.geosciml.org): Data transfer standard for geoscience information.
+2. [GeoPackage](https://www.geopackage.org): Open format for geospatial data based on SQLite.
+3. [Shapefile](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf): Common vector data format.
+
+## People
+
+- [Leonardo Uieda](https://github.com/leouieda) - Universidade de Sao Paulo. Creator of the Fatiando a Terra open-source Python tools for geophysics and core contributor to PyGMT.
+- [Lindsey Heagy](https://github.com/lheagy) - University of British Columbia. Lead developer of SimPEG, an open-source Python framework for geophysical simulation and inversion.
+- [Miguel de la Varga](https://github.com/Leguark) - Terranigma Solutions. Creator of GemPy, the leading open-source 3D structural geological modeling software in Python.
+- [Dongdong Tian](https://github.com/seisman) - China University of Geosciences. Core developer of Generic Mapping Tools (GMT) and lead developer of PyGMT.
+- [Lachlan Grose](https://github.com/lachlangrose) - Monash University. Creator of LoopStructural, an open-source 3D structural geological modeling library.
+- [Matt Hall](https://github.com/kwinkunks) - Equinor / Software Underground. Creator of welly, bruges, and striplog geoscience tools. Founded the Software Underground community.
+- [Santiago Soler](https://github.com/santisoler) - University of British Columbia. Core developer of both Fatiando a Terra and SimPEG.
+
+## Related Awesome Lists
+
+- [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) - Open-source software and data repositories for geoscience.
+- [Awesome GIS](https://github.com/sshuair/awesome-gis) - Geospatial sources, cartographic tools, and geoanalysis.
+- [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial) - Geospatial tools and resources.
+- [Awesome Earth Observation Code](https://github.com/acgeospatial/awesome-earthobservation-code) - Tools, tutorials, and code for Earth observation and satellite imagery.
+- [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) - Open atmospheric, ocean, and climate science.
+- [Awesome Planetary Geology](https://github.com/europlanet-gmap/awesome-planetary-geology) - Planetary geology and mapping tools.
+- [Awesome Paleontology](https://github.com/O957/awesome-paleontology) - Paleontology resources with significant geological overlap.
+
+## Contributing
 
 Notice anything missing that would be a good fit? If interested in contributing, please see the [contributing file](./CONTRIBUTING.md) for further direction.
 
+## Code of Conduct
+
+Please see the [code of conduct](./CODE_OF_CONDUCT.md).
+
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [O957](https://github.com/O957) has waived all copyright and related or neighboring rights to this work.
