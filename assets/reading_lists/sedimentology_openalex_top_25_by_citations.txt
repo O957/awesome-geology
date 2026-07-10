@@ -1,0 +1,220 @@
+Top 25 Papers Citation Search Results
+Generated: 2025-10-28 02:37:14
+================================================================================
+
+1. GRADISTAT: a grain size distribution and statistics package for the analysis of unconsolidated sediments
+   Authors: Simon J. Blott, Kenneth Pye
+   Year: 2001
+   Citations: 4035
+   Source: Earth Surface Processes and Landforms
+   DOI: https://doi.org/10.1002/esp.261
+   URL: https://doi.org/10.1002/esp.261
+   Open Access: Yes
+
+2. SWAT: Model Use, Calibration, and Validation
+   Authors: Jeffrey G. Arnold, Daniel N. Moriasi, Philip W. Gassman, Karim C. Abbaspour, Michael J. White
+   Year: 2012
+   Citations: 3065
+   Source: Transactions of the ASABE
+   DOI: https://doi.org/10.13031/2013.42256
+   URL: https://doi.org/10.13031/2013.42256
+   Open Access: No
+
+3. Principles of isotope geology
+   Authors: Richard W. Carlson
+   Year: 1987
+   Citations: 2764
+   Source: Geochimica et Cosmochimica Acta
+   DOI: https://doi.org/10.1016/0016-7037(87)90361-9
+   URL: https://doi.org/10.1016/0016-7037(87)90361-9
+   Open Access: No
+
+4. Carbonate Sedimentology
+   Authors: Maurice E. Tucker, V. Paul Wright
+   Year: 1990
+   Citations: 2603
+   Source: Unknown
+   DOI: https://doi.org/10.1002/9781444314175
+   URL: https://doi.org/10.1002/9781444314175
+   Open Access: No
+
+5. Microfacies of carbonate rocks: analysis, interpretation and application
+   Authors: Erik Flügel
+   Year: 2005
+   Citations: 2436
+   Source: Choice Reviews Online
+   DOI: https://doi.org/10.5860/choice.42-3437
+   URL: https://doi.org/10.5860/choice.42-3437
+   Open Access: Yes
+
+6. POSITIVE AND NEGATIVE EFFECTS OF ORGANISMS AS PHYSICAL ECOSYSTEM ENGINEERS
+   Authors: Clive G. Jones, John H. Lawton, Moshe Shachak
+   Year: 1997
+   Citations: 2200
+   Source: Ecology
+   DOI: https://doi.org/10.1890/0012-9658(1997)078[1946:paneoo]2.0.co;2
+   URL: https://doi.org/10.1890/0012-9658(1997)078[1946:paneoo]2.0.co;2
+   Open Access: No
+
+7. Prediction of some weathering trends of plutonic and volcanic rocks based on thermodynamic and kinetic considerations
+   Authors: H.W. Nesbitt, Grant M. Young
+   Year: 1984
+   Citations: 2158
+   Source: Geochimica et Cosmochimica Acta
+   DOI: https://doi.org/10.1016/0016-7037(84)90408-3
+   URL: https://doi.org/10.1016/0016-7037(84)90408-3
+   Open Access: No
+
+8. Sedimentology of some Flysch deposits : a graphic approach to facies interpretation
+   Authors: Arnold H. Bouma, Philip Henry Kuenen, Francis P. Shepard
+   Year: 1962
+   Citations: 1686
+   Source: Elsevier eBooks
+   Open Access: No
+
+9. Developments in Sedimentology
+   Authors: G. C. Amstutz
+   Year: 1965
+   Citations: 1620
+   Source: Soil Science
+   DOI: https://doi.org/10.1097/00010694-196507000-00019
+   URL: https://doi.org/10.1097/00010694-196507000-00019
+   Open Access: No
+
+10. A global perspective on environmental flow assessment: emerging trends in the development and application of environmental flow methodologies for rivers
+   Authors: Rebecca E. Tharme
+   Year: 2003
+   Citations: 1612
+   Source: River Research and Applications
+   DOI: https://doi.org/10.1002/rra.736
+   URL: https://doi.org/10.1002/rra.736
+   Open Access: No
+
+11. Hydrological changes in the African tropics since the Last Glacial Maximum
+   Authors: Françoise Gasse
+   Year: 2000
+   Citations: 1597
+   Source: Quaternary Science Reviews
+   DOI: https://doi.org/10.1016/s0277-3791(99)00061-x
+   URL: https://doi.org/10.1016/s0277-3791(99)00061-x
+   Open Access: No
+
+12. Principles of Lake Sedimentology
+   Authors: Lars Håkanson, Mats Jansson
+   Year: 1983
+   Citations: 1580
+   Source: Springer eBooks
+   DOI: https://doi.org/10.1007/978-3-642-69274-1
+   URL: https://doi.org/10.1007/978-3-642-69274-1
+   Open Access: No
+
+13. The boundary element method for engineers
+   Authors: C. A. Brebbia
+   Year: 1981
+   Citations: 1545
+   Source: Applied Ocean Research
+   DOI: https://doi.org/10.1016/0141-1187(81)90114-0
+   URL: https://doi.org/10.1016/0141-1187(81)90114-0
+   Open Access: No
+
+14. Heinrich events: Massive late Pleistocene detritus layers of the North Atlantic and their global climate imprint
+   Authors: Sidney R. Hemming
+   Year: 2004
+   Citations: 1480
+   Source: Reviews of Geophysics
+   DOI: https://doi.org/10.1029/2003rg000128
+   URL: https://doi.org/10.1029/2003rg000128
+   Open Access: Yes
+
+15. Foreland basin systems
+   Authors: Peter G. DeCelles, Katherine A. Giles
+   Year: 1996
+   Citations: 1455
+   Source: Basin Research
+   DOI: https://doi.org/10.1046/j.1365-2117.1996.01491.x
+   URL: https://doi.org/10.1046/j.1365-2117.1996.01491.x
+   Open Access: No
+
+16. Climate Change in Continental Isotopic Records
+   Authors: Unknown
+   Year: 1993
+   Citations: 1427
+   Source: Geophysical monograph
+   DOI: https://doi.org/10.1029/gm078
+   URL: https://doi.org/10.1029/gm078
+   Open Access: Yes
+
+17. Sand and sandstone
+   Authors: F. J. Pettijohn, Paul Edwin Potter, Raymond Siever
+   Year: 1972
+   Citations: 1416
+   Source: Unknown
+   Open Access: No
+
+18. Fluvial sedimentology
+   Authors: Unknown
+   Year: 1979
+   Citations: 1398
+   Source: Earth-Science Reviews
+   DOI: https://doi.org/10.1016/0012-8252(79)90059-x
+   URL: https://doi.org/10.1016/0012-8252(79)90059-x
+   Open Access: No
+
+19. Developments in Sedimentology
+   Authors: Unknown
+   Year: 2009
+   Citations: 1337
+   Source: Developments in sedimentology
+   DOI: https://doi.org/10.1016/s0070-4571(09)06212-8
+   URL: https://doi.org/10.1016/s0070-4571(09)06212-8
+   Open Access: No
+
+20. The Caledonide orogen : Scandinavia and related areas
+   Authors: David G. Gee, B. A. Sturt
+   Year: 1985
+   Citations: 1307
+   Source: Wiley eBooks
+   Open Access: No
+
+21. The Lhasa Terrane: Record of a microcontinent and its histories of drift and growth
+   Authors: Di‐Cheng Zhu, Zhidan Zhao, Yaoling Niu, Xuanxue Mo, Sun‐Lin Chung
+   Year: 2010
+   Citations: 1306
+   Source: Earth and Planetary Science Letters
+   DOI: https://doi.org/10.1016/j.epsl.2010.11.005
+   URL: https://doi.org/10.1016/j.epsl.2010.11.005
+   Open Access: No
+
+22. Long-term sensitivity of soil carbon turnover to warming
+   Authors: Wolfgang Knorr, I. Colin Prentice, Joanna I. House, Elisabeth A. Holland
+   Year: 2005
+   Citations: 1260
+   Source: Nature
+   DOI: https://doi.org/10.1038/nature03226
+   URL: https://doi.org/10.1038/nature03226
+   Open Access: No
+
+23. Glossary of Geology
+   Authors: Robert L. Bates, Julia Jackson
+   Year: 1987
+   Citations: 1238
+   Source: Unknown
+   Open Access: No
+
+24. Stable-isotope probing as a tool in microbial ecology
+   Authors: Stefan Radajewski, P. Ineson, N. R. Parekh, J. Colin Murrell
+   Year: 2000
+   Citations: 1214
+   Source: Nature
+   DOI: https://doi.org/10.1038/35001054
+   URL: https://doi.org/10.1038/35001054
+   Open Access: No
+
+25. Neotropical seasonally dry forests and Quaternary vegetation changes
+   Authors: R. Toby Pennington, Darién E. Prado, Colin A. Pendry
+   Year: 2000
+   Citations: 1161
+   Source: Journal of Biogeography
+   DOI: https://doi.org/10.1046/j.1365-2699.2000.00397.x
+   URL: https://doi.org/10.1046/j.1365-2699.2000.00397.x
+   Open Access: No
